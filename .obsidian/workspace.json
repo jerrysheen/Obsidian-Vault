@@ -11,10 +11,14 @@
             "id": "e19e6656193bebee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "简历/沈涛简历20250406.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "沈涛简历20250406"
             }
           }
         ]
@@ -161,8 +165,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2e570dc34f78c662",
+  "active": "e19e6656193bebee",
   "lastOpenFiles": [
+    "ClientFramework/未命名.canvas",
+    "简历/template-en.md",
+    "简历/template-cn.md",
+    "简历/沈涛简历20250406.md",
+    "简历",
     "GraphicsNote/文章阅读",
     "GraphicsNote/代码速记/新建 文本文档.txt",
     "GraphicsNote/基础知识/性能优化相关",
@@ -172,8 +181,6 @@
     "GraphicsNote/文章阅读",
     "GraphicsNote/基础知识/GPU硬件相关",
     "GraphicsNote/GPU硬件相关",
-    "GraphicsNote/基础知识/材质、Shader相关",
-    "GraphicsNote/代码速记",
     "GraphicsNote/基础知识/Test.md",
     "GraphicsNote/基础只是/Test.md"
   ]
